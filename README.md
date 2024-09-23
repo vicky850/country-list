@@ -47,7 +47,7 @@ git clone https://github.com/vicky850/country-list
 Go to the project directory
 
 ```bash
-  cd countries-list-dashboard
+  cd country-list
 ```
 
 Install dependencies
